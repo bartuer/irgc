@@ -30,7 +30,7 @@
 
 ### 陆军司令 [默罕默德.帕克普尔](https://en.wikipedia.org/wiki/Mohammad_Pakpour) 准将
 ![pakpour](http://bazhou.blob.core.windows.net/learning/irgc/IRGC_Ground_Force_Commander_Mohammad_Pakpour.jpg)
-兵力10万，两伊战争老兵，指挥过2016年夺取伊拉克费卢杰的战斗和伊朗东南部的叛乱。
+兵力10万，两伊战争老兵，指挥过2016年夺取伊拉克费卢杰的战斗和镇压伊朗东南部的叛乱。
 
 ### 海军司令 [阿里里萨.唐斯里](https://en.wikipedia.org/wiki/Alireza_Tangsiri) 准将
 ![tangsiri](http://bazhou.blob.core.windows.net/learning/irgc/IRGC_Naval_Force_Commander_Alireza_Tangsiri.jpg)
