@@ -11,7 +11,7 @@
 |制服肩章|![g](http://bazhou.blob.core.windows.net/learning/irgc/IRGC_general.png)|![lg](http://bazhou.blob.core.windows.net/learning/irgc/IRGC_lieutenant_general.png)|![mg](http://bazhou.blob.core.windows.net/learning/irgc/IRGC_major_general.png)|![bg](http://bazhou.blob.core.windows.net/learning/irgc/IRGC_brigadier_general.png)|![2bg](http://bazhou.blob.core.windows.net/learning/irgc/IRGC_2nd_brigadier_general.png)|![c](http://bazhou.blob.core.windows.net/learning/irgc/IRGC_colonel.png)|
 |中国军衔|大将|上将|中将|少将|大校|上校|
 |首长职务|无|无|总司令|军种司令|司令|无|
-|部队规模|无|无|野战军|兵团|军|师|旅|团|
+|部队规模|无|无|野战军|兵团|纵队|旅|
 
 ### 伊斯兰革命卫队司令从[贾法里](https://en.wikipedia.org/wiki/Mohammad_Ali_Jafari)少将到[萨拉米](https://en.wikipedia.org/wiki/Hossein_Salami)少将
 ![commander](http://bazhou.blob.core.windows.net/learning/irgc/salami_jafari.jpg)
